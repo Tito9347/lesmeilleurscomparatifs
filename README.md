@@ -1,1 +1,0 @@
-Site LesMeilleursComparatifs prêt pour GitHub + Netlify.
